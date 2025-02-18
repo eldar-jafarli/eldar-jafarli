@@ -53,8 +53,8 @@ I am a beginner front-end developer. My route in IT started in 2020. I have stud
 
 <div align="left">
     <h3></h3>
-    <a href="https://t.me/eliks_ind"><img src="assets/telegram.png" height="40" alt="telegram logo" /></a>
-    <img width="5" />
+    <!--<a href="https://t.me/eliks_ind"><img src="assets/telegram.png" height="40" alt="telegram logo" /></a>
+    <img width="5" />-->
     <a href="https://discord.gg/rnGJSUhGpT"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  /></a>
     <img width="5" />
     <a href="https://www.instagram.com/eliks_ind/"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  /></a>
